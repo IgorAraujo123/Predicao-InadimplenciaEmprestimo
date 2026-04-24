@@ -13,10 +13,11 @@ Fazer métricas do modelo preditivo
 ## Métricas Modelo
 Accuracy: 70%<br>
 Recall: 72%<br>
-Precisão: 69%
+Precisão: 69%<br>
+O modelo apresentou boa capacidade de identificar clientes com risco de inadimplência, com destaque para o recall, métrica essencial em problemas de crédito.
 
 ## Banco de Dados
-Variaveis: Duracao,HistoricoCredito,Proposito,Salario,Investimentos,Emprego,TempoParcelamento,EstadoCivil,FiadorTerceiros,ResidenciaDesde,Idade<br>	OutrosFinanciamentos,Habilitacao,EmprestimoExistente,Profissao,Dependentes,SocioEmpresa,Estrangeiro
+Variaveis: Duracao,HistoricoCredito,Proposito,Salario,Investimentos,Emprego,TempoParcelamento,EstadoCivil,FiadorTerceiros,ResidenciaDesde,Idade<br>	OutrosFinanciamentos,Habilitacao,EmprestimoExistente,Profissao,Dependentes,SocioEmpresa,Estrangeiro<br>
 Possui 1400 registros<br> 
 17 variáveis e 1 classe
 
