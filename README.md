@@ -1,5 +1,13 @@
 # Inadimplencia em Emprestimo
-Nesse projeto possui um banco de dados com informações sobre emprestismos de feitos aos cliente, o objetivo principal do trabalho realizado é fazer uma análise exploratória para verificção da integridade e qualidade dos dados e em seguido fazer a criação de uma IA em python para prever se o cliente vai ser inadimplente em relação ao empréstimo com finalidade de diminuição de inadimplencias.
+Introdução:
+Nesse projeto o objetivo principal do négocio é fazer um modelo preditivo para redução de risco dee crédito, visto a quantidade de golpes hoje em dia
+
+Objetivos:
+Verificção da integridade e qualidade dos dados,
+Análise exploratória para identificação de padrões,
+Criação de um modelo preditivo em python,
+Treinamento do Modelo,
+Fazer métricas do modelo preditivo
 
 Métricas Modelo
 Accuracy: 70%
@@ -9,3 +17,8 @@ Precisão: 69%
 Banco de Dados
 
 Possui 1400 registros e 18 variáveis
+
+Objetivo Final:
+Possui a finalidade de fazer diminuição de risco de crédito
+Ajudar na tomada de decisão dos stakeholders
+Reduzir perdas financeiras
