@@ -1,7 +1,7 @@
 # Inadimplencia em Emprestimo
 Introdução:
-Nesse projeto o objetivo principal do négocio é fazer um modelo preditivo para redução de risco dee crédito<br>
-Modelo Usado: Sequntial
+Nesse projeto o objetivo principal do négocio é fazer um modelo preditivo para redução de risco de crédito<br>
+Modelo Usado: Sequential
 
 ## Objetivos:
 Verificção da integridade e qualidade dos dados<br>
